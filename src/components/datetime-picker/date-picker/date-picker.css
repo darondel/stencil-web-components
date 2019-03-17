@@ -1,0 +1,3 @@
+date-picker ion-header ion-toolbar:nth-child(-n+2) {
+  border-bottom: 1px solid lightgrey;
+}
